@@ -8,7 +8,11 @@
   <strong>ArgonFetch is Yet Another Media Downloader.</strong>  
   A powerful tool for downloading videos, music, and other media from various online sources.
 </p>
-
+<p align="center"> 
+  <a href="https://github.com/Pianonic/ArgonFetch">
+    <img src="https://img.shields.io/badge/Repo-Shed.io-%2323E7E7" alt="Shed.io Repo Badge">
+  </a>
+</p>
 ---
 
 <p align="center">Made with ❤️ by <a href="https://github.com/Pianonic">PianoNic</a> and <a href="https://github.com/MyDrift-user">MyDrift</a></p>
