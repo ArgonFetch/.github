@@ -1,4 +1,4 @@
-# <p align="center">ArgonFetch</p>
+<p align="center">ArgonFetch</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf03eee6-0aa5-4508-8d2f-cb6fd6b1485f" width="200" alt="ArgonFetch Logo">
@@ -10,7 +10,7 @@
 </p>
 <p align="center"> 
   <a href="https://github.com/ArgonFetch/ArgonFetch">
-    <img src="https://img.shields.io/badge/Repo-Shed.io-%323E7E7" alt="Shed.io Repo Badge">
+    <img src="https://img.shields.io/badge/Go%20to%20Repo-%239A4FE0.svg" alt="Go to Repo Badge">
   </a>
 </p>
 
