@@ -1,4 +1,4 @@
-<p align="center">ArgonFetch</p>
+# <p align="center">ArgonFetch</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf03eee6-0aa5-4508-8d2f-cb6fd6b1485f" width="200" alt="ArgonFetch Logo">
