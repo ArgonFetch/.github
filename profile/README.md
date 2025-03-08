@@ -13,6 +13,9 @@
   <a href="https://github.com/ArgonFetch/ArgonFetch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgonFetch&repo=ArgonFetch&theme=radical" alt="ArgonFetch Repo Card">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ArgonFetch/ArgonFetchCli">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgonFetch&repo=ArgonFetchCli&theme=radical" alt="ArgonFetchCli Repo Card">
   </a>
