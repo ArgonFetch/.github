@@ -1,7 +1,7 @@
 # <p align="center">ArgonFetch</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf03eee6-0aa5-4508-8d2f-cb6fd6b1485f" width="200" alt="ArgonFetch Logo">
+  <img src="https://raw.githubusercontent.com/ArgonFetch/.github/834a86167ef8113983b82da675e4fd881e7e217e/profile/assets/logo-simple.svg" width="200" alt="ArgonFetch Logo">
 </p>
 
 <p align="center">
