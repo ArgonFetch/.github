@@ -7,6 +7,8 @@
   A powerful tool for downloading videos, music, and other media from various online sources.
 </p>
 
+---
+
 <p align="center">
   <a href="https://github.com/ArgonFetch/ArgonFetch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArgonFetch&repo=ArgonFetch&theme=radical" alt="ArgonFetch Repo Card">
